@@ -434,14 +434,14 @@ main {
 }
 @media screen and (min-width: 768px) {
     .panel_half {
-    flex:0 1 47%;
-}
-.panel_third {
-    flex:0 1 32%;
-}
-.panel_two_thirds {
-    flex:0 1 62%;
-}
+        flex: 0 1 47%;
+    }
+    .panel_third {
+        flex: 0 1 32%;
+    }
+    .panel_two_thirds {
+        flex: 0 1 62%;
+    }
 }
 /* -------- Text Panels (100% across in mobile) -------- */
 
@@ -551,7 +551,6 @@ footer {
     width: auto;
     max-height: 30px;
 }
-
 .contact_panel {
     display: flex;
     flex-direction: column;
