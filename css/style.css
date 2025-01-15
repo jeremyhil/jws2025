@@ -12,7 +12,7 @@
     --color-border-dark: rgb(0, 85, 85);
     --color-border-footer: rgb(211, 211, 211);
     --color-code: rgb(128, 0, 0);
-    /*---- nav & buttons ----*/    
+    /*---- nav & buttons ----*/
     --color-one-nav-btn: rgb(0, 85, 85);
     --color-two-nav-btn: rgb(255, 255, 255);
     --color-active-nav-btn: rgb(237 126 36);
@@ -41,7 +41,7 @@
         --color-border: rgb(0, 128, 128);
         --color-border-dark: rgb(0, 85, 85);
         --color-code: rgb(126, 231, 135);
-        /*---- nav & buttons ----*/    
+        /*---- nav & buttons ----*/
         --color-one-nav-btn: rgb(255, 255, 255);
         --color-two-nav-btn: rgb(0, 85, 85);
         --color-active-nav-btn: rgb(237 126 36);
@@ -88,7 +88,7 @@ h1 {font-size: 2rem;}
 h2 {font-size: 1.75rem;}
 h3 {font-size: 1.5rem;}
 h4 {font-size: 1.3rem;}
-h5 {font-size: 1.2rem; font-weight: 400;}  
+h5 {font-size: 1.2rem; font-weight: 400;}
 h6 {font-size: 1rem; font-weight: 400;}
 p {margin: 0 0 .5rem; word-wrap: break-word;}
 .second_font {font-family: var(--font-family-serif);}
@@ -127,7 +127,7 @@ summary:focus-visible {outline: medium dashed var(--color-border);}
 address {font-style: normal; display: flex; flex-direction: column;}
 address a {color: var(--color-text); padding-bottom: .5rem;}
 
-/* ------ Code  ------ */
+/* ------ Code ------ */
 pre { margin: 0; padding: 0; tab-size: 4; white-space: pre-wrap; line-height:1.5; font-family: var(--font-family-code); background-color: var(--color-secondary-background); padding: .5rem; margin: 0 0 .5rem;}
 code { font-family: var(--font-family-code); color: var(--color-code);}
 samp {font-family: var(--font-family-code);}
@@ -252,7 +252,7 @@ tfoot {
 }
 
 /* ------ Forms ------ */
-form {    
+form {
     width: clamp(33ch, 100%, 65ch);
     display: flex;
     flex-direction: column;
@@ -373,7 +373,7 @@ nav a:link {
     border-radius: 5px;
     text-decoration: none;
 }
-nav a:visited {       
+nav a:visited { 
     color: var(--color-one-nav-btn);
     border: solid 1px var(--color-border);
 }
@@ -385,7 +385,7 @@ nav a:focus {
     color: var(--color-two-nav-btn);
     background-color: var(--color-one-nav-btn);
     text-decoration: none;
-    outline: unset; 
+    outline: unset;
 }
 nav a[aria-current="page"],
 nav a:active {
@@ -546,7 +546,7 @@ footer {
 .social_icons a:hover {
     filter: var(--icon-hover);
 }
-.social_icons img {   
+.social_icons img {
     height: 100%;
     width: auto;
     max-height: 30px;
