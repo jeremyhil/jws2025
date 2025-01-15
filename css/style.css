@@ -28,6 +28,7 @@
     --font-family-code: ui-monospace, Consolas, Monaco, SFMono-Regular, SF Mono, Menlo, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono", "Oxygen Mono", "Ubuntu Mono", "Source Code Pro", "Fira Mono", "Droid Sans Mono", monospace;
     --font-family-serif: 'Palatino', Georgia, serif;
     --icon-hover: drop-shadow(2px 2px 3px rgb(104, 142, 163));
+    interpolate-size: allow-keywords;
 }
 
 @media (prefers-color-scheme: dark) {
