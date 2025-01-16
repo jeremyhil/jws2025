@@ -1,9 +1,10 @@
 # Changes to JWS One Template
 
-## 1.1.0 (16 January 2025)
+## 1.0.3 (16 January 2025)
 
 * Dates Updated
 * Added Changelog.md
+* Added X Logo image
 
 ### Style.css changes
 
