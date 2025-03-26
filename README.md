@@ -1,4 +1,7 @@
-# About JWS One
+
+# This is just a working copy
+
+## About JWS One
 
 ![JWS One Logo](https://jasminews.uk/github/jwsone.svg)
 
@@ -30,3 +33,4 @@ Thank you.
 
 ## License
 JWS One is Licensed under The MIT License.
+
