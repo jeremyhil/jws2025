@@ -1,5 +1,5 @@
 
-# This is just a working copy
+# My working copy
 
 ## About JWS One
 
