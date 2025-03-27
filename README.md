@@ -1,5 +1,5 @@
 
-# My working copy
+# My working copy whilst writing about JasmineWS
 
 ## About JWS One
 
